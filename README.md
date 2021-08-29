@@ -1,9 +1,9 @@
 # onebithealth-app
 A IMC app powered by React Native.
 
-![WhatsApp Image 2021-08-28 at 9 05 14 PM](https://user-images.githubusercontent.com/79026025/131233985-006fd4ac-1d52-4db2-b65b-eb2ddda34a06.jpeg)
+![image](https://user-images.githubusercontent.com/79026025/131234002-917a6eb6-f92f-4a61-96b7-49e9387e84e9.png) ![image](https://user-images.githubusercontent.com/79026025/131234011-30633a0e-9e6d-4ac4-b0f1-0c717f40896f.png)
 
-![WhatsApp Image 2021-08-28 at 9 01 19 PM](https://user-images.githubusercontent.com/79026025/131233987-53fa17df-8058-4309-aa28-754012300974.jpeg)
+
 
 
 # How to start
